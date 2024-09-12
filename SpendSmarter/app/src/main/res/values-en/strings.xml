@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="total">Total</string>
+    <string name="add_tracsaction">Add Transaction</string>
+    <string name="expenses">EXPENSES</string>
+    <string name="incomes">INCOMES</string>
+    <string name="input_money">Enter number of day</string>
+    <string name="category">Category :</string>
+    <string name="note">Note :</string>
+    <string name="add_button">Add</string>
+    <string name="create_category">Create category</string>
+    <string name="icon">Icon</string>
+    <string name="color_add">Color</string>
+    <string name="category_page">Category</string>
+    <string name="detail_page">Detail</string>
+    <string name="day">Day</string>
+    <string name="week">Week</string>
+    <string name="month">Mont</string>
+    <string name="year">Yeah</string>
+    <string name="more">More</string>
+    <string name="change_pass_page">Change password </string>
+    <string name="confirm_pass_old">Confirm your old pass</string>
+    <string name="new_pass">New password</string>
+    <string name="input_pass_new">Enter new password</string>
+    <string name="confirm_pass_new">Confirm new password</string>
+    <string name="confirm_button">Confirm button</string>
+    <string name="setting_page">Setting</string>
+    <string name="account_current">Account current</string>
+    <string name="setting_font">Setting font</string>
+    <string name="language">Language</string>
+    <string name="setting_notify">Setting notify</string>
+    <string name="delete_data">Delete data</string>
+    <string name="delete_all_data">Delete all data of account</string>
+</resources>

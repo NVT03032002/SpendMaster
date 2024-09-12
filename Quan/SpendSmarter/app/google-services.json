@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "468944644504",
+    "project_id": "spendsmarter-333f4",
+    "storage_bucket": "spendsmarter-333f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468944644504:android:83dcbaf0c57791abada3ed",
+        "android_client_info": {
+          "package_name": "com.TenthGroup.spendsmarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "468944644504-8rjqfafdh359faj9cvoioblugdl16kr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoxyitmtuwAMDNe9FT1dYC3n6rmBUxbDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "468944644504-8rjqfafdh359faj9cvoioblugdl16kr9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

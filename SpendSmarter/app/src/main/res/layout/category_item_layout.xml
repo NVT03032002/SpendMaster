@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/category_background"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:layout_gravity="center|fill_horizontal"
+    android:orientation="vertical"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp">
+    <ImageView
+        android:id="@+id/icon"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:src="@drawable/water"
+        android:background="@drawable/icon_circle"
+        android:padding="11dp"
+        android:layout_gravity="center"
+        app:tint="@color/white" />
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="25dp"
+        android:text="Skate"
+        android:textSize="17sp"
+        android:textColor="@color/black"
+        android:layout_gravity="center"
+        android:gravity="center"/>
+</LinearLayout>
